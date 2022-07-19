@@ -16,5 +16,8 @@
 
 => [Step-step Installation in Termux](https://github.com/wahasa/Debian)
 
+## Void Linux
+
+* [Void 2021](https://a-hel-fi.m.voidlinux.org/live/current)
 --------
 
