@@ -16,6 +16,16 @@
 
 => [Step-step Installation in Termux](https://github.com/wahasa/Debian)
 
+## Fedora Linux
+
+* Fedora 36
+* Fedora 35
+* Fedora 34
+* Fedora 33
+* Fedora 31
+* [Fedora 30](https://dl.fedoraproject.org/pub/fedora/linux/releases) 
+
+
 ## Void Linux
 
 * [Void 2021](https://a-hel-fi.m.voidlinux.org/live/current)
