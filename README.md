@@ -1,5 +1,7 @@
 ## Ubuntu-Linux
 
+=> https://ubuntu.com
+
 * [Ubuntu 22.10](https://partner-images.canonical.com/core/kinetic/current) (Kinetic Kudu)
 * [Ubuntu 22.04](https://partner-images.canonical.com/core/jammy/current) (Jammy Jellyfish)
 * [Ubuntu 21.10](https://partner-images.canonical.com/core/impish/current) (Impish Indri)
@@ -11,12 +13,16 @@
 
 ## Debian-Linux
 
+=> https://www.debian.org
+
 * [Debian 11.04](https://github.com/wahasa/Debian/releases/tag/11.4) (Bullseye)
 * [Debian 10.12](https://github.com/wahasa/Debian/releases/tag/10.12) (Buster)
 
 => [Step-step Installation in Termux](https://github.com/wahasa/Debian)
 
 ## Fedora-Linux
+
+=> https://getfedora.org
 
 * [Fedora 36.1.5](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
 * [Fedora 35.1.2](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/35/Container)
@@ -28,6 +34,8 @@
 
 ## Alpine-linux
 
+=> https://www.alpinelinux.org
+
 * [Alpine 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases)
 * [Alpine 3.15](https://dl-cdn.alpinelinux.org/alpine/v3.15/releases)
 * [Alpine 3.14](https://dl-cdn.alpinelinux.org/alpine/v3.14/releases)
@@ -38,11 +46,15 @@
 
 ## Parrot-Linux
 
+=> https://www.parrotsec.org/
+
 * [Parrot 5.0.1](https://ftp.up.pt/parrot/iso/5.0.1)
 * [Parrot 4.11](https://ftp.up.pt/parrot/iso/4.11.3)
 * [Parrot 4.10](https://ftp.up.pt/parrot/iso/4.10)
 
 ## Void-Linux
+
+=> https://voidlinux.org
 
 * [Void 2021](https://a-hel-fi.m.voidlinux.org/live/current)
 --------
