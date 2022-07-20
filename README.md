@@ -36,6 +36,12 @@
 * [Alpine 3.11](https://dl-cdn.alpinelinux.org/alpine/v3.11/releases)
 * [Alpine 3.10](https://dl-cdn.alpinelinux.org/alpine/v3.10/releases)
 
+## Parrot Linux
+
+* [Parrot 5.0.1](https://ftp.up.pt/parrot/iso/5.0.1)
+* [Parrot 4.11](https://ftp.up.pt/parrot/iso/4.11.3)
+* [Parrot 4.10](https://ftp.up.pt/parrot/iso/4.10)
+
 ## Void Linux
 
 * [Void 2021](https://a-hel-fi.m.voidlinux.org/live/current)
