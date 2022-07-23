@@ -52,6 +52,11 @@
 
 * [Manjora 22.06](https://github.com/manjaro-arm/rootfs/releases)
 
+## Opensuse-Linux
+> opensuse.org
+
+* [Opensuse 15.4](http://download.opensuse.org/ports)
+
 ## Arch-Linux
 > archlinuxarm.org
 
