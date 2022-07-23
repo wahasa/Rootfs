@@ -47,6 +47,11 @@
 * [Parrot 4.11](https://ftp.up.pt/parrot/iso/4.11.3)
 * [Parrot 4.10](https://ftp.up.pt/parrot/iso/4.10)
 
+## Manjora-Linux
+> manjaro.org
+
+* [Manjora 22.6](https://github.com/manjaro-arm/rootfs/releases)
+
 ## Arch-Linux
 > archlinuxarm.org
 
