@@ -55,7 +55,7 @@
 ## Arch-Linux
 > archlinuxarm.org
 
-* [Arch](http://tw2.mirror.archlinuxarm.org/os)
+* [Arch 2022](http://tw2.mirror.archlinuxarm.org/os)
 
 ## Void-Linux
 > voidlinux.org
