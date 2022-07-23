@@ -50,7 +50,7 @@
 ## Manjora-Linux
 > manjaro.org
 
-* [Manjora 22.6](https://github.com/manjaro-arm/rootfs/releases)
+* [Manjora 22.06](https://github.com/manjaro-arm/rootfs/releases)
 
 ## Arch-Linux
 > archlinuxarm.org
