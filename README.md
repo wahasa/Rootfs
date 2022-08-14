@@ -1,3 +1,10 @@
+## Kali-Linux Nethunter
+
+* [Kali-Nethunter 2022.3](http://kali.download/nethunter-images/kali-2022.3/rootfs)
+* [Kali-Nethunter 2021.4](http://kali.download/nethunter-images/kali-2021.4/rootfs)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/nethunter)
+
 ## Ubuntu-Linux
 > ubuntu.com
 
@@ -8,7 +15,7 @@
 * [Ubuntu 20.10](https://partner-images.canonical.com/core/groovy/current) (Groovy Gorilla)
 * [Ubuntu 20.04](https://partner-images.canonical.com/core/focal/current) (Focal Fossa)
 
-=> [Step-step Installation in Termux](https://github.com/wahasa/Ubuntu)
+=> [Steps Installation in Termux](https://github.com/wahasa/Ubuntu)
 
 ## Debian-Linux
 > debian.org
@@ -16,7 +23,7 @@
 * [Debian 11.04](https://github.com/wahasa/Debian/releases/tag/11.4) (Bullseye)
 * [Debian 10.12](https://github.com/wahasa/Debian/releases/tag/10.12) (Buster)
 
-=> [Step-step Installation in Termux](https://github.com/wahasa/Debian)
+=> [Steps Installation in Termux](https://github.com/wahasa/Debian)
 
 ## Fedora-Linux
 > getfedora.org
