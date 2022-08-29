@@ -1,9 +1,9 @@
-Kali Rootfs
-http://kali.download/nethunter-images
+Kali-Rootfs
+> http://kali.download/nethunter-images
 
-Ubuntu Rootfs
-Link => https://partner-images.canonical.com/core
-Link => http://cdimage.ubuntu.com/ubuntu-base
+Ubuntu-Rootfs
+> https://partner-images.canonical.com/core
+> http://cdimage.ubuntu.com/ubuntu-base
 
-Debian Rootfs
-Link => https://docker.debian.net
+Debian-Rootfs
+> https://docker.debian.net
