@@ -37,8 +37,7 @@
 ## Parrot-Linux
 > parrotsec.org
 
-* [Parrot 5.0.1](https://ftp.up.pt/parrot/iso/5.0.1)
-* [Parrot 4.11](https://ftp.up.pt/parrot/iso/4.11.3)
+* [Parrot 5.1](https://ftp.up.pt/parrot/iso/current)
 
 ## Manjora-Linux
 > manjaro.org
