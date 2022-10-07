@@ -54,6 +54,8 @@
 
 * [Arch 2022](http://tw2.mirror.archlinuxarm.org/os)
 
+[CentOs](https://vault.centos.org/altarch/7.4.1708/isos/)
+
 ## Void-Linux
 > voidlinux.org
 
