@@ -83,10 +83,3 @@ http://downloads.raspberrypi.org
 <p align="center">Good Luck</p>
 
 ---
-
-
-
-
-
----
-
