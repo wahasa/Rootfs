@@ -67,11 +67,12 @@
 ## BackBox-Linux
 > backbox.org
 
-[BackBox](https://github.com/EXALAB/Anlinux-Resources/tree/master/Rootfs/BackBox)
+* [BackBox](https://github.com/EXALAB/Anlinux-Resources/tree/master/Rootfs/BackBox)
 
 ## Venom-Linux
-> venomlinux.org/
-[Venom 4.0](https://github.com/venomlinux/ports/releases)
+> venomlinux.org
+
+* [Venom 4.0](https://github.com/venomlinux/ports/releases)
 
 ## Raspberrypi
 > raspberrypi.com
