@@ -22,17 +22,19 @@
 
 => [Steps Installation in Termux](https://github.com/wahasa/Debian)
 
-## Fedora-Linux
-> getfedora.org
-
-* [Fedora 36.1.5](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
-* [Fedora 35.1.2](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/35/Container)
-
 ## Alpine-linux
 > alpinelinux.org
 
 * [Alpine 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases)
 * [Alpine 3.15](https://dl-cdn.alpinelinux.org/alpine/v3.15/releases)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Alpine)
+
+## Fedora-Linux
+> getfedora.org
+
+* [Fedora 36.1.5](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
+* [Fedora 35.1.2](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/35/Container)
 
 ## Parrot-Linux
 > parrotsec.org
