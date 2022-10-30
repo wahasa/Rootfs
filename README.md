@@ -40,6 +40,7 @@
 > parrotsec.org
 
 * [Parrot 5.1](https://ftp.up.pt/parrot/iso/current)
+* [Parrot 5.0](https://ftp.up.pt/parrot/iso/5.0.1/)
 
 ## Manjora-Linux
 > manjaro.org
@@ -79,7 +80,7 @@
 ## Raspberrypi
 > raspberrypi.com
 
-http://downloads.raspberrypi.org
+* [Raspberry Pi](http://downloads.raspberrypi.org)
 
 ---
 <p align="center">Good Luck</p>
