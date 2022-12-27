@@ -18,7 +18,7 @@
 ## Debian-Linux
 > debian.org
 
-* [Debian 11.05](https://github.com/wahasa/Debian/releases/tag/11.5) (Bullseye)
+* [Debian 11.06](https://github.com/wahasa/Debian/releases/tag/11.6) (Bullseye)
 * [Debian 10.13](https://github.com/wahasa/Debian/releases/tag/10.13) (Buster)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Debian)
