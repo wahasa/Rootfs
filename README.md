@@ -26,8 +26,9 @@
 ## Alpine-linux
 > alpinelinux.org
 
-* [Alpine 3.16](https://dl-cdn.alpinelinux.org/alpine/v3.16/releases)
-* [Alpine 3.15](https://dl-cdn.alpinelinux.org/alpine/v3.15/releases)
+* [Alpine 3.16](https://github.com/wahasa/Alpine/releases/tag/3.17)
+* [Alpine 3.16](https://github.com/wahasa/Alpine/releases/tag/3.16)
+* [Alpine 3.15](https://github.com/wahasa/Alpine/releases/tag/3.15)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Alpine)
 
