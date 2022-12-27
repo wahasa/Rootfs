@@ -1,7 +1,7 @@
 ## Kali-Linux
 >kali.org
 
-* [Kali-Nethunter 2022.3](https://github.com/wahasa/nethunter/releases/tag/2022.3)
+* [Kali-Nethunter 2022.4](https://github.com/wahasa/nethunter/releases/tag/2022.4)
 * [Kali-Nethunter 2021.4](https://github.com/wahasa/nethunter/releases/tag/2021.4)
 
 => [Steps Installation in Termux](https://github.com/wahasa/nethunter)
