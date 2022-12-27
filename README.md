@@ -69,7 +69,7 @@
 ## Void-Linux
 > voidlinux.org
 
-* [Void 2021](https://a-hel-fi.m.voidlinux.org/live/current)
+* [Void 2022](https://a-hel-fi.m.voidlinux.org/live/current)
 
 ## BackBox-Linux
 > backbox.org
