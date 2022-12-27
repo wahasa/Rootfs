@@ -9,6 +9,7 @@
 ## Ubuntu-Linux
 > ubuntu.com
 
+* [Ubuntu 23.04](https://github.com/wahasa/Ubuntu/releases/tag/23.04) (Lunar Lobster)
 * [Ubuntu 22.10](https://github.com/wahasa/Ubuntu/releases/tag/22.10) (Kinetic Kudu)
 * [Ubuntu 22.04](https://github.com/wahasa/Ubuntu/releases/tag/22.04) (Jammy Jellyfish)
 
