@@ -59,7 +59,7 @@
 ## Arch-Linux
 > archlinuxarm.org
 
-* [Arch 2022](http://tw2.mirror.archlinuxarm.org/os)
+* [Arch 2022](http://sg.mirror.archlinuxarm.org/os)
 
 ## CentOs-Linux
 > centos.org/
