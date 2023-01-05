@@ -49,7 +49,7 @@
 ## Manjora-Linux
 > manjaro.org
 
-* [Manjora 2022](https://github.com/manjaro-arm/rootfs/releases)
+* [Manjora 2023](https://github.com/manjaro-arm/rootfs/releases)
 
 ## Opensuse-Linux
 > opensuse.org
