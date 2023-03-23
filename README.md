@@ -12,12 +12,14 @@
 
 * [Arch 2023](http://sg.mirror.archlinuxarm.org/os)
 
-=> [Steps Installation in Termux](
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
 ## CentOs-Linux
-> centos.org/
+> centos.org
 
-* [CentOs 7.4.17](https://vault.centos.org/altarch/7.4.1708/isos/)
+* [CentOs 2023](https://www.centos.org/download)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
 ## Debian-Linux
 > debian.org
@@ -33,7 +35,8 @@
 * [Fedora 38.0 (Pre-release)](https://github.com/fedora-cloud/docker-brew-fedora/tree/e7136a4190768fa604776d6535269a6b52189a4c)
 * [Fedora 37.0](https://github.com/fedora-cloud/docker-brew-fedora/tree/1853328a811b98a580c4d3ca50d10cd788ba9d64)
 * [Fedora 36.1.5](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
-* [Fedora 35.1.2](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/35/Container)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
 ## Kali-Linux
 >kali.org
@@ -48,16 +51,22 @@
 
 * [Manjora 2023](https://github.com/manjaro-arm/rootfs/releases)
 
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
+
 ## Opensuse-Linux
 > opensuse.org
 
 * [Opensuse 15.4](http://download.opensuse.org/ports)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
 ## Parrot-Linux
 > parrotsec.org
 
 * [Parrot 5.1](https://ftp.up.pt/parrot/iso/5.1.2)
 * [Parrot 5.0](https://ftp.up.pt/parrot/iso/5.0.1)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
 ## Ubuntu-Linux
 > ubuntu.com
@@ -73,8 +82,9 @@
 
 * [Void 2022](https://a-hel-fi.m.voidlinux.org/live/current)
 
----
+=> [Steps Installation in Termux](https://github.com/wahasa/Project)
 
+---
 ## Venom-Linux
 > venomlinux.org
 
