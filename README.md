@@ -12,22 +12,12 @@
 
 * [Arch 2023](http://sg.mirror.archlinuxarm.org/os)
 
-## Kali-Linux
->kali.org
+=> [Steps Installation in Termux](
 
-* [Kali-Nethunter 2022.4](https://github.com/wahasa/nethunter/releases/tag/2022.4)
-* [Kali-Nethunter 2021.4](https://github.com/wahasa/nethunter/releases/tag/2021.4)
+## CentOs-Linux
+> centos.org/
 
-=> [Steps Installation in Termux](https://github.com/wahasa/nethunter)
-
-## Ubuntu-Linux
-> ubuntu.com
-
-* [Ubuntu 23.04](https://github.com/wahasa/Ubuntu/releases/tag/23.04) (Lunar Lobster)
-* [Ubuntu 22.10](https://github.com/wahasa/Ubuntu/releases/tag/22.10) (Kinetic Kudu)
-* [Ubuntu 22.04](https://github.com/wahasa/Ubuntu/releases/tag/22.04) (Jammy Jellyfish)
-
-=> [Steps Installation in Termux](https://github.com/wahasa/Ubuntu)
+* [CentOs 7.4.17](https://vault.centos.org/altarch/7.4.1708/isos/)
 
 ## Debian-Linux
 > debian.org
@@ -45,11 +35,13 @@
 * [Fedora 36.1.5](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
 * [Fedora 35.1.2](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/35/Container)
 
-## Parrot-Linux
-> parrotsec.org
+## Kali-Linux
+>kali.org
 
-* [Parrot 5.1](https://ftp.up.pt/parrot/iso/5.1.2)
-* [Parrot 5.0](https://ftp.up.pt/parrot/iso/5.0.1)
+* [Kali-Nethunter 2022.4](https://github.com/wahasa/nethunter/releases/tag/2022.4)
+* [Kali-Nethunter 2021.4](https://github.com/wahasa/nethunter/releases/tag/2021.4)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/nethunter)
 
 ## Manjora-Linux
 > manjaro.org
@@ -61,20 +53,27 @@
 
 * [Opensuse 15.4](http://download.opensuse.org/ports)
 
-## CentOs-Linux
-> centos.org/
+## Parrot-Linux
+> parrotsec.org
 
-* [CentOs 7.4.17](https://vault.centos.org/altarch/7.4.1708/isos/)
+* [Parrot 5.1](https://ftp.up.pt/parrot/iso/5.1.2)
+* [Parrot 5.0](https://ftp.up.pt/parrot/iso/5.0.1)
+
+## Ubuntu-Linux
+> ubuntu.com
+
+* [Ubuntu 23.04](https://github.com/wahasa/Ubuntu/releases/tag/23.04) (Lunar Lobster)
+* [Ubuntu 22.10](https://github.com/wahasa/Ubuntu/releases/tag/22.10) (Kinetic Kudu)
+* [Ubuntu 22.04](https://github.com/wahasa/Ubuntu/releases/tag/22.04) (Jammy Jellyfish)
+
+=> [Steps Installation in Termux](https://github.com/wahasa/Ubuntu)
 
 ## Void-Linux
 > voidlinux.org
 
 * [Void 2022](https://a-hel-fi.m.voidlinux.org/live/current)
 
-## BackBox-Linux
-> backbox.org
-
-* [BackBox](https://github.com/EXALAB/Anlinux-Resources/tree/master/Rootfs/BackBox)
+---
 
 ## Venom-Linux
 > venomlinux.org
