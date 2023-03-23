@@ -10,7 +10,7 @@
 ## Arch-Linux
 > archlinuxarm.org
 
-* [Arch 2022](http://sg.mirror.archlinuxarm.org/os)
+* [Arch 2023](http://sg.mirror.archlinuxarm.org/os)
 
 ## Kali-Linux
 >kali.org
