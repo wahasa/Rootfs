@@ -7,6 +7,11 @@
 
 => [Steps Installation in Termux](https://github.com/wahasa/Alpine)
 
+## Arch-Linux
+> archlinuxarm.org
+
+* [Arch 2022](http://sg.mirror.archlinuxarm.org/os)
+
 ## Kali-Linux
 >kali.org
 
@@ -55,11 +60,6 @@
 > opensuse.org
 
 * [Opensuse 15.4](http://download.opensuse.org/ports)
-
-## Arch-Linux
-> archlinuxarm.org
-
-* [Arch 2022](http://sg.mirror.archlinuxarm.org/os)
 
 ## CentOs-Linux
 > centos.org/
