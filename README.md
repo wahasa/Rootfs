@@ -24,8 +24,7 @@
 ## Debian-Linux
 > debian.org
 
-* [Debian 11.06](https://github.com/wahasa/Debian/releases/tag/11.6) (Bullseye)
-* [Debian 10.13](https://github.com/wahasa/Debian/releases/tag/10.13) (Buster)
+* [Debian 12.0](https://github.com/wahasa/Debian/tree/main/Install) (Bookworm)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Debian)
 
@@ -70,9 +69,7 @@
 ## Ubuntu-Linux
 > ubuntu.com
 
-* [Ubuntu 23.04](https://github.com/wahasa/Ubuntu/releases/tag/23.04) (Lunar Lobster)
-* [Ubuntu 22.10](https://github.com/wahasa/Ubuntu/releases/tag/22.10) (Kinetic Kudu)
-* [Ubuntu 22.04](https://github.com/wahasa/Ubuntu/releases/tag/22.04) (Jammy Jellyfish)
+* [Ubuntu 23.10](https://github.com/wahasa/Ubuntu/tree/main/Install) (Mantic Minotaur)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Ubuntu)
 
