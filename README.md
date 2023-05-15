@@ -63,10 +63,9 @@
 ## Parrot-Linux
 > parrotsec.org
 
-* [Parrot 5.1](https://ftp.up.pt/parrot/iso/5.1.2)
-* [Parrot 5.0](https://ftp.up.pt/parrot/iso/5.0.1)
+* [Parrot 5.3](https://github.com/wahasa/Parrot/tree/main/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/Project)
+=> [Steps Installation in Termux](https://github.com/wahasa/Parrot)
 
 ## Ubuntu-Linux
 > ubuntu.com
