@@ -1,9 +1,7 @@
 ## Alpine-linux
 > alpinelinux.org
 
-* [Alpine 3.17](https://github.com/wahasa/Alpine/releases/tag/3.17)
-* [Alpine 3.16](https://github.com/wahasa/Alpine/releases/tag/3.16)
-* [Alpine 3.15](https://github.com/wahasa/Alpine/releases/tag/3.15)
+* [Alpine 3.18](https://github.com/wahasa/Alpine/tree/main/Install)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Alpine)
 
