@@ -40,10 +40,9 @@
 ## Kali-Linux
 >kali.org
 
-* [Kali-Nethunter 2022.4](https://github.com/wahasa/nethunter/releases/tag/2022.4)
-* [Kali-Nethunter 2021.4](https://github.com/wahasa/nethunter/releases/tag/2021.4)
+* [Kali-Nethunter 2023.2a](https://github.com/wahasa/Kali-Nethunter/tree/2023/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/nethunter)
+=> [Steps Installation in Termux](https://github.com/wahasa/Kali-Nethunter)
 
 ## Manjora-Linux
 > manjaro.org
