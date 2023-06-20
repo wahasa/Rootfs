@@ -29,11 +29,9 @@
 ## Fedora-Linux
 > getfedora.org
 
-* [Fedora 38.0](https://github.com/fedora-cloud/docker-brew-fedora/tree/b5ec3fb5c8646068aeb30cc7ee7b572601c3baf7)
-* [Fedora 37.0](https://github.com/fedora-cloud/docker-brew-fedora/tree/d125ccc578a6ee34803c806d2854c1a531ea77b9)
-* [Fedora 36.1](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/36/Container)
+* [Fedora 39.0](https://github.com/wahasa/Fedora/tree/main/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/Project)
+=> [Steps Installation in Termux](https://github.com/wahasa/Fedora/tree/main)
 
 ## Kali-Linux
 >kali.org
