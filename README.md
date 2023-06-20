@@ -22,7 +22,7 @@
 ## Debian-Linux
 > debian.org
 
-* [Debian 12.0](https://github.com/wahasa/Debian/tree/main/Install) (Bookworm)
+* [Debian 13.0](https://github.com/wahasa/Debian/tree/main/Install)(Trixie)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Debian)
 
