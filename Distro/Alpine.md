@@ -21,10 +21,12 @@ exit
 ```
 ```
 
-``
-xbps-install -Sy
-xbps-install -Syu
-xbps-query -Rs (PKG)
-xbps-install (PKG)
-xbps-remove (PKG)
-``
+---
+Basic commands Void</br>
+>xbps-install -S : Update list package.</br>
+>xbps-install -Su : Upgrade package.</br>
+>xbps-query -Rs (pkg) : Search package.</br>
+>xbps-install (pkg) : Install package.</br>
+>xbps-remove (pkg) : Delete package.</br>
+
+---
