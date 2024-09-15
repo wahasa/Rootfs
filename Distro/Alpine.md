@@ -20,4 +20,11 @@ exit
 ```
 ```
 ```
-```
+
+``
+xbps-install -Sy
+xbps-install -Syu
+xbps-query -Rs (PKG)
+xbps-install (PKG)
+xbps-remove (PKG)
+``
