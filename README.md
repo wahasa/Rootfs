@@ -1,7 +1,12 @@
-## Alpine-linux
+<p align="center">My Channel</br><b>
+| <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/@layargeser">YouTube</a> |</b></p>
+
+---
+<b>List Rootfs Linux in Termux Android</b>
+### Alpine Linux
 > alpinelinux.org
 
-* [Alpine 3.18](https://github.com/wahasa/Alpine/tree/main/Install)
+* [Alpine Linux](https://github.com/wahasa/Alpine/tree/main/Install)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Alpine)
 
