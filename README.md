@@ -31,12 +31,12 @@
 
 => [Steps Installation in Termux](https://github.com/wahasa/Debian)
 
-## Fedora-Linux
+### Fedora Linux
 > getfedora.org
 
-* [Fedora 39.0](https://github.com/wahasa/Fedora/tree/main/Install)
+- [x] [Fedora Rootfs](https://github.com/wahasa/Fedora/tree/main/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/Fedora/tree/main)
+=> [Steps Installation in Termux](https://github.com/wahasa/Fedora)
 
 ## Kali-Linux
 >kali.org
@@ -45,12 +45,12 @@
 
 => [Steps Installation in Termux](https://github.com/wahasa/Kali-Nethunter)
 
-## Manjora-Linux
+### Manjora Linux
 > manjaro.org
 
-* [Manjora 2023](https://github.com/manjaro-arm/rootfs/releases)
+- [x] [Manjora Arm Rootfs](https://github.com/wahasa/Manjaro/tree/main/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/Project)
+=> [Steps Installation in Termux](https://github.com/wahasa/Manjaro)
 
 ## Opensuse-Linux
 > opensuse.org
