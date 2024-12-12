@@ -6,16 +6,16 @@
 ### Alpine Linux
 > alpinelinux.org
 
-* [Alpine Linux](https://github.com/wahasa/Alpine/tree/main/Install)
+- [x] [Alpine Rootfs](https://github.com/wahasa/Alpine/tree/main/Install)
 
 => [Steps Installation in Termux](https://github.com/wahasa/Alpine)
 
-## Arch-Linux
+### Arch Linux
 > archlinuxarm.org
 
-* [Arch 2023](http://sg.mirror.archlinuxarm.org/os)
+- [x] [Arch Arm Rootfs](https://github.com/wahasa/Arch/tree/main/Install)
 
-=> [Steps Installation in Termux](https://github.com/wahasa/Project)
+=> [Steps Installation in Termux](https://github.com/wahasa/Arch)
 
 ## CentOs-Linux
 > centos.org
